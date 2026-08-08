@@ -7,10 +7,7 @@ A responsive personal portfolio website showcasing my skills, projects, educatio
 - HTML
 - CSS
 - JavaScript
-- C
-- Python
-- Node js
-- Java
+
 
 ## Sections
 
